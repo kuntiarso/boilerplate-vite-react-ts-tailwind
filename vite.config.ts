@@ -17,7 +17,6 @@ export default defineConfig(({ mode }: ConfigEnv): UserConfig => {
     },
     resolve: {
       alias: {
-        // '/': path.resolve(__dirname, './public'),
         '~': path.resolve(__dirname, './src')
       }
     }
