@@ -6,6 +6,7 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
     "type": "tsc --project tsconfig.json --noEmit",
     "prepare": "husky install",
     "pr": "gh pr create --template pull_request_template.md"
