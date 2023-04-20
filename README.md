@@ -1,11 +1,11 @@
 # Boilerplate React Project
 
-:zap: vite
-:sparkles: react
-:sparkles: typescript
-:sparkles: tailwindcss
-:sparkles: husky + lint-staged
-:sparkles: eslint + prettier
+:zap: vite  
+:sparkles: react  
+:sparkles: typescript  
+:sparkles: tailwindcss  
+:sparkles: husky + lint-staged  
+:sparkles: eslint + prettier  
 
 ### Prerequisites
 
